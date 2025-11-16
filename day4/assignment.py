@@ -1,0 +1,25 @@
+number = int(input("enter any number "))
+if  number % 2 == 0:
+  print("number is even")
+
+
+else:
+ print("number is odd")
+
+ 
+if number  > 0:
+    print("number is positive")
+
+elif number < 0:
+ print("number is negative")
+
+else:
+  print("number is zero")
+
+
+
+
+
+
+
+   
